@@ -1,0 +1,17 @@
+HackMate-Bot/
+│
+├── README.md
+├── requirements.txt
+├── config.py
+├── main.py
+├── .gitignore
+│
+├── src/
+│   ├── __init__.py
+│   ├── handlers.py
+│   ├── utils.py
+│   └── database.py
+│
+└── tests/
+    ├── __init__.py
+    └── test_basic.py
